@@ -14,11 +14,16 @@ Email: qli23@gsu.edu
 * The code in code_hpc can be used in the HPC cluster to process gigabytes WSI images.
 * The code in code_local can be used in the local computer to test small image dataset.
 
-*  image preprocessing for color deconvolution
+
+
+
+
+
+*  First step: image preprocessing for color deconvolution
     1) imagepreprocessing.m: read image data and color deconvolution;
      Input: image file path
     % read the image file; 
-* calculating the fibrosis ratio and needle biopsycross-section visualization.
+* Second step: calculating the fibrosis ratio and needle biopsycross-section visualization.
    1) test.m: input the tube and tissue size parameters, point coordinate position.  
        Input: image file path, and tube parameters and penetration point.
 
