@@ -11,8 +11,8 @@ Email: qli23@gsu.edu
 
 
 ## Main features
-code_hpc can be used in the HPC to process gigabytes WSI images.
-code_local can be used in the local computer to test small image dataset.
+* The code in code_hpc can be used in the HPC to process gigabytes WSI images.
+* The code in code_local can be used in the local computer to test small image dataset.
 
 *  image preprocessing for color deconvolution
     1) imagepreprocessing.m: read image data and color deconvolution;
