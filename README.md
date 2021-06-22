@@ -1,4 +1,4 @@
-# Liver Fibrosis Histology Slides Quantitative Analysis Using 3D Volume
+# Quantification of Liver Needle Biopsy Sampling Error with Serial Histopathology Whole Slide Images![image](https://user-images.githubusercontent.com/22900265/123001231-7fe53580-d37e-11eb-8280-b2c58e5a8dcd.png)
 
 MATLAB Code for needle biopsy image sampling and liver fibrosis quantification.
 
