@@ -19,7 +19,7 @@ Email: qli23@gsu.edu
     1) imagepreprocessing.m: read image data and color deconvolution;
      Input: image file path
     % read the image file; 
-* Second step: calculating the fibrosis ratio and needle biopsycross-section visualization.
+* Second step: calculating the fibrosis ratio and needle biopsy cross-section visualization.
    1) test.m: input the tube and tissue size parameters, point coordinate position.  
        Input: image file path, and tube parameters and penetration point.
 
