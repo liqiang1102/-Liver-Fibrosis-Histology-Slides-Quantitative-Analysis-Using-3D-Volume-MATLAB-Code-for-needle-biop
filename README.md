@@ -26,7 +26,7 @@ Email: qli23@gsu.edu
 * modeltest.m: The testing model is constructed by pure color blocks for tesing tube tubevoxel.m
 
 
-## Matlab Code: 
+## Matlab Code
 
 1. imagepreprocessing.m: read image data and color deconvolution; 
    3) Create several folder path under one project folder : 
@@ -52,8 +52,7 @@ Email: qli23@gsu.edu
 
 
 
-## About color deconvolution
-Two types of color deconvolution models are built according to the following references:
+## References
 
 [1] Macenko, Marc, Marc Niethammer, James S. Marron, David Borland, John T. Woosley, Xiaojun Guan, Charles Schmitt, and Nancy E. Thomas. "A method for normalizing histology slides for quantitative analysis." In 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, pp. 1107-1110. IEEE, 2009.
 
