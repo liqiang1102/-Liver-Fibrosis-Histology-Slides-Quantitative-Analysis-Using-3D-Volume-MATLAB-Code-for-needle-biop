@@ -8,36 +8,9 @@ Email: qli23@gsu.edu
 
 -------------------------------------------------------------------
 
-
-
 ## Main features
 * The code in code_hpc can be used in the HPC cluster to process gigabytes WSI images.
 * The code in code_local is a example, which can be used in the local computer to test small image dataset.
-
-
-## Matlab Code
-
-1. imagepreprocessing.m: read image data and color deconvolution; 
-   3) Create several folder path under one project folder : 
-   origin: store the sliced image from ndpi;
-   H :for red pixel color deconvolution;
-   E : for blue pixel color deconvolution;
-   Imgsrc1 : combine the H and E image to create labeled image;
-   Imgsrc2: image to rgb;
-2. test.m: input the tube and tissue size parameters, point coordinate position. 
-
-3. normalizeStaining.m : color deconvolution function.
-
-4. tubevoxel.m: calculate the discrete point 3d space coordinate position.
-
-5. tissuemodel.m: 1) build the tissue by using the tissue image slides from origin file;
-       2) calculate the blue voxels ratio which represent the cancer area percentage;
-       3) the tube cross-section image visualization;
-6. modeltest.m: The testing model is constructed by pure color blocks for tesing tube tubevoxel.m
-
-7. labelimg.m : is function combine the H and E into labeled image;
-
- 
 
 
 
