@@ -15,17 +15,6 @@ Email: qli23@gsu.edu
 * The code in code_local is a example, which can be used in the local computer to test small image dataset.
 
 
-*  First step: image preprocessing for color deconvolution
-    1) imagepreprocessing.m: read image data and color deconvolution;
-     Input: image file path
-    % read the image file; 
-* Second step: calculating the fibrosis ratio and needle biopsy cross-section visualization.
-   1) test.m: input the tube and tissue size parameters, point coordinate position.  
-       Input: image file path, and tube parameters and penetration point.
-
-* modeltest.m: The testing model is constructed by pure color blocks for tesing tube tubevoxel.m
-
-
 ## Matlab Code
 
 1. imagepreprocessing.m: read image data and color deconvolution; 
